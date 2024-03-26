@@ -1,9 +1,5 @@
-I am an Associate Professor (with tenure) at the [Haas School of Business](https://haas.berkeley.edu/) and the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley.
+I am currently a Ph.D. candidate in the [**School of Economics**](https://economics.smu.edu.sg/), [**Singapore Management University (SMU)**](https://www.smu.edu.sg/). 
 
-My research brings insights from psychology to bear on topics in economics, particularly topics relevant to developing countries. My current research agenda is centered on the economics of mental health in developing countries. Past projects include studying how improving sleep affects the economic outcomes of workers in India, how the endowment effect influences consumer demand for collateralized loans in Kenya, how research findings affect the beliefs and policy choices of mayors in Brazil, and how mixing rich and poor students in schools in India affects social preferences and behaviors.
-
-Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral Development Lab](https://behavioraldevlab.org/index.html) in India. I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). From 2018 to 2020, I served as an Associate Editor at the Journal of Political Economy.
+My research interests lie in the economics of the family and labor economics. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in children, fertility behaviors, and female labor supply.
 
 __[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated March 2023)
-
-__[Research Statement](/pdf/Rao Research Statement.pdf")__ 
