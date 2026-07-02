@@ -6,4 +6,4 @@ My research interests lie in the economics of the family and labor economics. My
   <!-- <span style="color: green;">Economics of the Family, Labor Economics</span> -->
   Economics of the Family, Labor Economics
 
-__[Curriculum Vitae](/pdf/CV_Yutao_Wang.pdf")__ (Updated March 2024)
+__[Curriculum Vitae](pdf/CV_Yutao_Wang.pdf)__ (Updated March 2024)

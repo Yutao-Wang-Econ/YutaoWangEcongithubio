@@ -1,6 +1,7 @@
+baseURL = "https://Yutao-Wang-Econ.github.io/YutaoWangEcongithubio/"
 relativeURLs = true
 title = "Yutao WANG"
-theme = "academimal"
+theme = "academimal2"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]

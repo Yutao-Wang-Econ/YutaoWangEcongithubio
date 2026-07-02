@@ -1,21 +1,8 @@
 works:
 
 - title: "Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?"
-  /*pdflink: "/pdf/Not Learning from Others.pdf"*/
   coauthors: "[Christine Ho](https://sites.google.com/site/christineho5), [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home)"
   book: "Submitted"
   note: "Current Version: Feb 2024"
-  /*links:
-    - url: "https://www.socialscienceregistry.org/trials/4253"
-      text: "Pre-Registration"*/
   abstract: >
-      	Daughters may be less likely to migrate with parents because they tend to have more siblings in societies with strong son preference. Exploiting exogenous variation in twinning as an instrument, we find that a one unit increase in family size decreases the probability that a daughter migrates by 12.5 percentage points but has negligible effects on sons in China. The negative associations for daughters are stronger when migration restrictions are more stringent. The results are indicative of gendered family size trade-offs in a novel aspect of parental investment and highlight the need to relax migrant children's education constraints.
-
-/*- title: "The Endowment Effect and Collateralized Loans"
-  pdflink: "/pdf/Rao_Endowment_Effect_Collateralized_Loans.pdf"
-  coauthors: "Kevin Carney, Michael Kremer and Xinyue Lin"
-  book: "Revise and Resubmit, Econometrica"
-  note: "Current Version: May 2022"
-  abstract: >
-      Collateral requirements play an important role in credit markets. This paper shows that the endowment effect---the phenomenon where owing a good increases one's valuation of it---inhibits demand for loans which use a borrower's existing assets as collateral. Using a field experiment in Kenya, we show that borrowers instead strongly prefer loans collateralized using the new durable assets being financed by the loans themselves. They are willing to pay 9% per month higher interest for such Same-Asset Collateralized Loans (SACLs) despite the endowed and new assets being randomized, and thus similarly valued before ownership. Our findings imply that assets which are difficult to use as collateral---which cannot be financed by SACLs---will be invested in less, even if the borrower has other collateral. We argue that borrowers' preference for SACLs is driven by naivete: they initially perceive that they have little to lose when offered a SACL, but subsequently come to develop an attachment to the new asset, resulting in high repayment effort. Consistent with this, borrowers underestimate their future attachment to an asset before owning it, and SACLs do not have higher default rates despite having higher demand. We derive the conditions under which offering consumers SACLs increases or conversely decreases borrower welfare.
-*/
+    Daughters may be less likely to migrate with parents because they tend to have more siblings in societies with strong son preference. Exploiting exogenous variation in twinning as an instrument, we find that a one unit increase in family size decreases the probability that a daughter migrates by 12.5 percentage points but has negligible effects on sons in China. The negative associations for daughters are stronger when migration restrictions are more stringent. The results are indicative of gendered family size trade-offs in a novel aspect of parental investment and highlight the need to relax migrant children's education constraints.

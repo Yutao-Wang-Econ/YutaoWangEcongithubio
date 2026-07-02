@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Yutao WANG</title>
+    <link>http://localhost:1313/YutaoWangEcongithubio/</link>
+    <description>Recent content in Homepage on Yutao WANG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/YutaoWangEcongithubio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/YutaoWangEcongithubio/sections/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/YutaoWangEcongithubio/sections/aboutme/</guid>
+      <description>I am currently a Ph.D. candidate in the School of Economics, Singapore Management University (SMU).&#xA;My research interests lie in the economics of the family and labor economics. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in children, fertility behaviors, and female labor supply.&#xA;Research Interests&#xA;Economics of the Family, Labor Economics&#xA;Curriculum Vitae (Updated March 2024)</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/YutaoWangEcongithubio/sections/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/YutaoWangEcongithubio/sections/contact/</guid>
+      <description>Email: grao@fas.harvard.edu&#xA;Phone: +1-734-846-7754&#xA;Address:&#xA;Department of Economics&#xA;Littauer Center M-30, Harvard University&#xA;Cambridge, MA 02138&#xA;U.S.A.&#xA;Teaching (Spring 2021)&#xA;Econ 2338: Behavioral Development Economics&#xA;Econ 980: Behavioral Economics of Poverty and Development (junior seminar)&#xA;Information for (potential) advisees</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/YutaoWangEcongithubio/sections/from-another-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/YutaoWangEcongithubio/sections/from-another-life/</guid>
+      <description>&amp;ldquo;Child Migration and the Labor Supply of Migrant Mothers&amp;rdquo; (with Kaizhi Yu and Hong Zou), Statistical Research (in Chinese, CSSCI), 2022, 39(2): 64-79.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/YutaoWangEcongithubio/sections/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/YutaoWangEcongithubio/sections/personal/</guid>
+      <description>Website: I am grateful to Gautam Rao and Xinyue Lin for making their code of website design publicly available.</description>
+    </item>
+  </channel>
+</rss>
