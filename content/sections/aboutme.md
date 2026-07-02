@@ -1,4 +1,4 @@
-I am currently a tenure-track assistant professor in the __[Institute of Insurance Application and Innovation**](https://fiiai.fudan.edu.cn/)__, __[**Fudan University**](https://www.fudan.edu.cn/en/)__. 
+I am currently a tenure-track assistant professor in the __[Institute of Insurance Application and Innovation](https://fiiai.fudan.edu.cn/)__, __[**Fudan University**](https://www.fudan.edu.cn/en/)__. 
 
 My research interests lie in labor economics, the economics of insurance, family economics, and applied micro. I leverage both structural estimation methods and reduced-form techniques to explore the mechanisms underlying trade-offs between the quantity and quality of children, as well as trade-offs between female labor supply and family formation.
 
