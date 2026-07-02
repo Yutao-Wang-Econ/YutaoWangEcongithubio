@@ -7,6 +7,6 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Ph.D. candidate, Singapore Management University"
+    shortbio = "Assistant Professor, Fudan University"
     logo = "IMG_0165.jpg" 
     
