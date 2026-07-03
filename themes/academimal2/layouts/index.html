@@ -4,28 +4,6 @@
 {{ .Content }}
 {{ end }}
 
-
-{{ with .GetPage "/sections/contact.md" }}
-<hr>
-<h2 id="contact">Contact</h2>
-{{ .Content }}
-{{ end }}
-
-{{ with .GetPage "/sections/teaching.md" }}
-<hr>
-<h2 id="teaching">Teaching</h2>
-{{ .Content }}
-{{ end }}
-
-{{ with .GetPage "/sections/office-hours.md" }}
-<hr>
-<h2 id="officehours">Office Hours</h2>
-{{ .Content }}
-{{ end }}
-
-{{ $scratch := newScratch }}
-{{ $scratch.Set "pubcnt" 0 }}
-
 {{ with .Site.Data.publications }}
 <hr>
 <h2 id="publications">Publications</h2>
@@ -51,7 +29,7 @@
 
 {{ with .Site.Data.work_in_progress }}
 <hr>
-<h2 id="workinprogress">Work in Progress</h2>
+<h2 id="workinprogress">Selected Work in Progress</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
@@ -60,15 +38,18 @@
 {{ end }}
 {{ end }}
 
-{{ with .GetPage "/sections/from-another-life.md" }}
+
+
+{{ with .GetPage "/sections/teaching.md" }}
 <hr>
-<h2 id="fromanotherlife">From Another Life</h2>
+<h2 id="teaching">Teaching</h2>
 {{ .Content }}
 {{ end }}
 
-{{ with .GetPage "/sections/personal.md" }}
+
+{{ with .GetPage "/sections/contact.md" }}
 <hr>
-<h2 id="personal">Personal</h2>
+<h2 id="contact">Contact</h2>
 {{ .Content }}
 {{ end }}
 
