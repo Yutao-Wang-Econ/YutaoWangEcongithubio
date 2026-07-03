@@ -6,4 +6,4 @@ I am an applied microeconomist specializing in labor economics, the economics of
   <!-- <span style="color: green;">Economics of the Family, Labor Economics</span> -->
 <!--   Labor Economics, Economics of Insurance, Family Economics, Applied Microeconomics -->
 
-__[Curriculum Vitae](pdf/CV_Yutao_Wang.pdf)__ (Updated March 2024)
+[Curriculum Vitae](pdf/CV_Yutao_Wang.pdf) (Updated March 2024)
