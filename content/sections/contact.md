@@ -1,4 +1,4 @@
-__Email__: __[yt_wang@fudan.edu.cn](yt_wang@fudan.edu.cn)__.
+__Email__: [yt_wang@fudan.edu.cn](yt_wang@fudan.edu.cn).
 <!-- __Phone__: +1-734-846-7754  --> 
 __Address__:  
 Institute of Insurance Application and Innovation, Fudan University  
