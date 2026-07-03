@@ -2,6 +2,9 @@
 {{ with .GetPage "/sections/contact.md" }}
 <p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
 {{ end }}
+{{ with .GetPage "/sections/teaching.md" }}
+<p class="contactinfo"><a href="{{ "#teaching" | relURL }}">Teaching</a></p>
+{{ end }}
 {{ with .GetPage "/sections/office-hours.md" }}
 <p class="contactinfo"><a href="{{ "#officehours" | relURL }}">Office Hours</a></p>
 {{ end }}
