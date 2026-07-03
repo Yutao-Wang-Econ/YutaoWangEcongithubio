@@ -1,16 +1,16 @@
-<p class="contactinfo"><a href="{{ "#bio" | relURL }}">Bio</a></p>
+<p class="contactinfo"><a href="#bio">Bio</a></p>
 {{ with .Site.Data.publications }}
-<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>
+<p class="contactinfo"><a href="#publications">Publications</a></p>
 {{ end }}
 {{ with .Site.Data.working_papers }}
-<p class="contactinfo"><a href="{{ "#workingpapers" | relURL }}">Working Papers</a></p>
+<p class="contactinfo"><a href="#workingpapers">Working Papers</a></p>
 {{ end }}
 {{ with .Site.Data.work_in_progress }}
-<p class="contactinfo"><a href="{{ "#workinprogress" | relURL }}">Selected Work in Progress</a></p>
+<p class="contactinfo"><a href="#workinprogress">Selected Work in Progress</a></p>
 {{ end }}
 {{ with .GetPage "/sections/teaching.md" }}
-<p class="contactinfo"><a href="{{ "#teaching" | relURL }}">Teaching</a></p>
+<p class="contactinfo"><a href="#teaching">Teaching</a></p>
 {{ end }}
 {{ with .GetPage "/sections/contact.md" }}
-<p class="lastcontactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
+<p class="lastcontactinfo"><a href="#contact">Contact</a></p>
 {{ end }}
