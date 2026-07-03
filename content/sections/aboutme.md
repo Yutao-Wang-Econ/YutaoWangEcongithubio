@@ -7,3 +7,5 @@ I am an applied microeconomist specializing in labor economics, the economics of
 <!--   Labor Economics, Economics of Insurance, Family Economics, Applied Microeconomics -->
 
 [Curriculum Vitae](pdf/CV_Yutao_Wang.pdf) (Updated March 2024)
+
+You can reach me at [yt_wang@fudan.edu.cn](yt_wang@fudan.edu.cn).
