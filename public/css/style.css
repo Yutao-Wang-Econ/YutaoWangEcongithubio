@@ -255,6 +255,15 @@ p.contactinfo {
 p.lastcontactinfo {
   margin: 0 0 20px; }
 
+.teaching-content p {
+  margin: 0 0 7px; }
+
+.teaching-content p:has(strong:first-child) {
+  margin-top: 18px; }
+
+.teaching-content p:first-child {
+  margin-top: 0; }
+
 p img.inline-logo {
   display: inline-flex;
   align-self: center;
