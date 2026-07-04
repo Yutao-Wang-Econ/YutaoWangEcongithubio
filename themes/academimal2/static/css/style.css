@@ -269,6 +269,28 @@ p img.octicons {
   height: 1.2em;
   bottom: -0.16em; }
 
+.social-icons {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 12px 0 20px; }
+
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #727272;
+  font-size: 22px;
+  line-height: 1;
+  min-width: 24px;
+  min-height: 24px;
+  text-decoration: none; }
+
+.social-icons a:hover, .social-icons a:focus {
+  color: #046;
+  text-decoration: none; }
+
 p span.hideit {
   display: none; }
 
