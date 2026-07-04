@@ -8,5 +8,5 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "Assistant Professor, Fudan University"
-    logo = "/IMG_4210.jpeg" 
+    logo = "/IMG_0165.jpg" 
     
