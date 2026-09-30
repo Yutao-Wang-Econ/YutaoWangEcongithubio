@@ -256,12 +256,14 @@ p.lastcontactinfo {
   margin: 0 0 20px; }
 
 .teaching-content p {
-  margin: 0 0 7px; }
+  margin: 0 0 12px;
+  line-height: 1.5; }
 
-.teaching-content p:has(strong:first-child) {
-  margin-top: 18px; }
+.teaching-content h3 {
+  margin: 24px 0 7px;
+  line-height: 1.35; }
 
-.teaching-content p:first-child {
+.teaching-content h3:first-child {
   margin-top: 0; }
 
 p img.inline-logo {
