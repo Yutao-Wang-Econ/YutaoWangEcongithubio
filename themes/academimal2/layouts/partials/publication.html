@@ -7,7 +7,7 @@
   {{ if in . "<" }}
     {{ . | safeHTML }}
   {{ else }}
-    <em>{{ . }}</em>
+    {{ . }}
   {{ end }}
 </p>
 {{ end }}
