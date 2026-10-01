@@ -10,4 +10,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
     shortbio = "Assistant Professor, Fudan University"
     logo = "/professional-headshot.JPG" 
     email = "yt_wang@fudan.edu.cn"
+    googlescholar = "https://scholar.google.com/citations?user=myID"
     orcid = "https://orcid.org/0009-0008-6687-3257"
+
+    
