@@ -264,6 +264,9 @@ p.lastcontactinfo {
 .teaching-content p:first-child {
   margin-top: 0; }
 
+.teaching-content .smallskip {
+  height: 8px; }
+
 p img.inline-logo {
   display: inline-flex;
   align-self: center;
