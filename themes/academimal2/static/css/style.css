@@ -255,14 +255,22 @@ p.contactinfo {
 p.lastcontactinfo {
   margin: 0 0 20px; }
 
+.teaching-content {
+  line-height: 1.6;
+}
+
 .teaching-content p {
-  margin: 0 0 10px; }
+  margin: 0 0 14px;
+}
 
-.teaching-content p:has(strong:first-child) {
-  margin-top: 22px; }
+.teaching-content h3 {
+  margin: 26px 0 10px;
+  font-size: 16px;
+}
 
-.teaching-content p:first-child {
-  margin-top: 0; }
+.teaching-content h3:first-child {
+  margin-top: 0;
+}
 
 p img.inline-logo {
   display: inline-flex;
