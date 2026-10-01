@@ -272,6 +272,15 @@ p.lastcontactinfo {
   margin-top: 0;
 }
 
+.personal-note {
+  margin-top: 28px;
+  color: #777;
+  font-size: 13px;
+  line-height: 1.5; }
+
+.personal-note p {
+  margin: 0; }
+
 p img.inline-logo {
   display: inline-flex;
   align-self: center;
