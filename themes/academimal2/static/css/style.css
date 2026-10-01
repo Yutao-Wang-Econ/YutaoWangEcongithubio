@@ -255,8 +255,14 @@ p.contactinfo {
 p.lastcontactinfo {
   margin: 0 0 20px; }
 
-.teaching-content .smallskip {
-  height: 8px; }
+.teaching-content p {
+  margin: 0 0 10px; }
+
+.teaching-content p:has(strong:first-child) {
+  margin-top: 22px; }
+
+.teaching-content p:first-child {
+  margin-top: 0; }
 
 p img.inline-logo {
   display: inline-flex;
