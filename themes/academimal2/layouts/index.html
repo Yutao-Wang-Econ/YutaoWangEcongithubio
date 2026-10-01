@@ -55,5 +55,11 @@
 {{ .Content }}
 {{ end }}
 
+{{ with .GetPage "/sections/personal.md" }}
+<div class="personal-note">
+{{ .Content }}
+</div>
+{{ end }}
+
 {{ .Content }}
 {{- end }}
