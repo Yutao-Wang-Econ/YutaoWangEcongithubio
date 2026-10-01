@@ -272,8 +272,11 @@ p.lastcontactinfo {
   margin-top: 0;
 }
 
+.personal-divider {
+  margin: 28px 0 14px; }
+
 .personal-note {
-  margin-top: 28px;
+  margin-top: 0;
   color: #777;
   font-size: 13px;
   line-height: 1.5; }
